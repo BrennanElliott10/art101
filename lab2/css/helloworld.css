@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  font-size: 150%;
+}
+
+#brennan {
+  color: Green;
+  text-indent: 25px;
+  margin-left: 10px;
+}
+
+#solomon {
+  color: purple;
+  text-indent: 25px;
+  margin-left: 10px;
+}
+
+#textformatting {
+  background-color: #FAFAD2;
+  width: 800px;
+  min-height: 250px;
+  padding: 30px;
+  margin: 30px;
+  border: dashed 3px #f00;
+  font-size: 20px;
+}
