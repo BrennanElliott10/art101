@@ -1,0 +1,23 @@
+body {
+  background-color: blue;
+}
+.description {
+  border: solid 10px blue;
+  background: lightblue;
+  padding: 20px;
+  width: 150px;
+  height: auto;
+  float: left;
+}
+
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: purple;
+}
+
+li {
+  color: black
+}
