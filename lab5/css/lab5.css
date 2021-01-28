@@ -1,0 +1,24 @@
+body {
+  border: solid 5px white;
+  padding: 30px;
+  background-color: #404040;
+}
+
+h1 {
+  color: white;
+}
+
+p, h2 {
+  color: lightgray;
+}
+
+.output, .output h2 {
+  color: white;
+}
+
+img {
+  float: right;
+  width: 400px;
+  height: auto;
+  padding: 30px;
+}
