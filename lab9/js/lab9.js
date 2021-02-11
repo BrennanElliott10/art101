@@ -15,12 +15,13 @@ new1El.id = "1";
 outputEl.appendChild(new1El);
 
 //repeate for 2nd paragraph
-var new2El = document.createElement("p2");
+var new2El = document.createElement("p");
 new2El.id = "2";
 new2El.innerHTML = "Something Else :)";
 outputEl.appendChild(new2El);
 
 //css
 document.getElementById("1").style.color = "blue";
-document.getElementById("output").style.marginLeft = "35px";
 document.getElementById("2").style.color = "red";
+document.getElementById("1").style.backgroundcolor = "red";
+document.getElementById("1").style.backgroundcolor = "red";
