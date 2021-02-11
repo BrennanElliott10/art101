@@ -20,5 +20,5 @@
  }
 
  // output
- document.writeln("Hey, I fixed your name for you! ",
-  nameFixer(), "</br>");
+ document.writeln("<div id='output'>Hey, I fixed your name for you! ",
+  nameFixer(), "</div></br>");
