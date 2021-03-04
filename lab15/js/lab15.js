@@ -17,7 +17,7 @@ function doAPIStuff() {
   $.ajax({
     url: apiEndpoint,
     data: {
-          api_key: "DEMO_KEY"
+          api_key: "lLiG3OmR2q3o3oJDQN9MIraaSoCSWmp2uvHYfNe7"
           },
     type: "GET"
   })
