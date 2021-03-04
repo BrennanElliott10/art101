@@ -1,0 +1,19 @@
+#output {
+  min-height: 100px;
+}
+
+body {
+  background-color: #E95843;
+  padding: 20px;
+}
+
+h1, h2, p {
+  border: solid #4169E1 10px;
+  background-color: #4169E1;
+  color: #FFD700;
+  padding: 10px;
+}
+
+.header {
+  text-decoration: underline;
+}
