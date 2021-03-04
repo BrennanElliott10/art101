@@ -25,7 +25,7 @@ function doAPIStuff() {
   .done(function( data ) {
     var textData = JSON.stringify(data);
     var str = "";
-    var imageURL = data.img;
+    var imageURL = data.hdurl;
     var title = data.title;
     str += "<h2>" + title + "</h1>";
     str += "<img src='" + imageURL + "'>"
