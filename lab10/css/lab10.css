@@ -1,0 +1,21 @@
+html {
+  background: #fbceb1;
+}
+
+#details {
+  border: solid 3px purple;
+  width: 990px;
+  padding: 5px;
+  color: blue;
+  background-color: pink;
+}
+
+h2 {
+  text-decoration: underline purple dotted;
+}
+
+#inputs {
+  padding: 5px;
+  border: dotted 3px pink;
+  width: 990px;
+}

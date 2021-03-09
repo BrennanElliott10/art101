@@ -1,0 +1,28 @@
+#java {
+  border: solid 5px black;
+  padding: 20px;
+  margin: auto;
+}
+
+#java h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+}
+
+body {
+  text-align: center;
+  background-color: #6EA2EC;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+#page {
+  border: solid 5px black;
+  padding: 20px;
+}
+
+h1 {
+  text-decoration: underline;
+}
